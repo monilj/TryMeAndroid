@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TryMe</string>
+    <string name="try_me">Try Me!</string>
+    <string name="yes">Yes</string>
+    <string name="mayBe">May Be</string>
+    <string name="no">No</string>
+    <string name="attending">Attending?</string>
+    <string name="pain_level">Whats your pain level in scale of 1 to 10?</string>
+    <string name="hide_seek"><![CDATA[Hide & Seek]]></string>
+    <string name="Peek">Peek a Bool</string>
+    <string name="question">Who is your favourite person</string>
+    <string name="mom">Mom</string>
+    <string name="dad">Dad</string>
+    <string name="grandapa">Grandapa</string>
+    <string name="show">Show</string>
+</resources>
